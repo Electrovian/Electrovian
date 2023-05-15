@@ -1,7 +1,6 @@
-# Hello, World! 👋 [or whatever header you want]
-## I'm [insert name here]!
-- insert a couple details or facts about yourself here
-- insert a couple details or facts about yourself here
+# Hello, Pain! 👋 
+## I'm Mitchell Koski!
+An aspiring c++ programer 
 
 ### Programming Languages I Worked With:
 ### [NOTE: You can change the name within the <span> tags and icons by changing the src of it]
