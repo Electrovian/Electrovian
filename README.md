@@ -1,6 +1,6 @@
 # Hello, Pain! 👋 
 ## I'm Mitchell Koski!
-An aspiring c++ programer 
+An aspiring C++ programer 
 
 ### Programming Languages I Worked With:
 ### [NOTE: You can change the name within the <span> tags and icons by changing the src of it]
