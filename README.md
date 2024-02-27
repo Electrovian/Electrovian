@@ -1,4 +1,4 @@
-# Hello, Pain! 👋 
+# Hello! 👋 
 ## I'm Mitchell Koski!
 An aspiring C++ programmer 
 
