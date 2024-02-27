@@ -37,8 +37,8 @@ An aspiring C++ programmer
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>Kotlin</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <span><strong>Lua</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
             </td>
         </tr>
     </tbody>
