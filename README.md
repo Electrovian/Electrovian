@@ -65,10 +65,6 @@ An aspiring C++ programmer
             <span><strong>Visual Studio</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
             </td>
-            <td width="80px" align="center">
-            <span><strong>Android Studio</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-            </td>
         </tr>
 </tbody>
 </table>
