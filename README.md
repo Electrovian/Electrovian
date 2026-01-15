@@ -1,6 +1,6 @@
 # Hello! 👋 
 ## I'm Mitchell Koski!
-An aspiring C++ programmer 
+Developer of endless bugs and fixes
 
 ### Programming Languages I Worked With:
 <table width="320px">
