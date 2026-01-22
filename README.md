@@ -38,7 +38,7 @@ Developer of endless bugs and fixes
             </td>
             <td width="80px" align="center">
             <span><strong>Rust</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" />
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
             </td>
         </tr>
     </tbody>
