@@ -37,8 +37,8 @@ Developer of endless bugs and fixes
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>Lua</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
+            <span><strong>Rust</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" />
             </td>
         </tr>
     </tbody>
