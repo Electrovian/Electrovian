@@ -54,8 +54,8 @@ Developer of endless bugs and fixes
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>MATLAB</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+            <span><strong>Cursor</strong></span><br>
+            <img height="32px" src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor-logo-freelogovectors.net_.png" />
             </td>
             <td width="80px" align="center">
             <span><strong>VS Code</strong></span><br>
