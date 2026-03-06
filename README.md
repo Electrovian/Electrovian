@@ -1,91 +1,45 @@
-# Hello! 👋 
-## I'm Mitchell Koski!
-Developer of endless bugs and fixes
+# Hello!
+## I'm Mitchell Koski
+Developer of endless bugs and fixes.
 
-### Programming Languages I Worked With:
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>C</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>C++</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>C#</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Rust</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+Python, C, and Rust developer graduating in 2026.
 
-### Programming Software/IDEs I Worked With:
-<table width="320px">
-<table>
-<tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>LabVIEW</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Cursor</strong></span><br>
-            <img height="32px" src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor-logo-freelogovectors.net_.png" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>VS Code</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Visual Studio</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-            </td>
-        </tr>
-</tbody>
-</table>
-          
-### Frameworks I Worked With:
-<table width="320px">
-<table>
-<tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>.NET</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Bootstrap</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-            </td>
-        </tr>
-</tbody>
-</table>
-          
-### Preview of my GitHub:
-<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=Electrovian&show_icons=true&theme=apprentice"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Electrovian&layout=compact"/>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Tools and IDEs
+<p>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Frameworks
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### GitHub Snapshot
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Electrovian&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="170" alt="Electrovian GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electrovian&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" height="170" alt="Top languages used by Electrovian" />
+</p>
+
+If the snapshot cards fail to render, open them directly:
+- [Stats card](https://github-readme-stats.vercel.app/api?username=Electrovian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+- [Top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=Electrovian&layout=compact&theme=github_dark&hide_border=true)
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/mitchell-koski-1b98391b7/)
